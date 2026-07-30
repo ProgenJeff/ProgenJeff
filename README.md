@@ -121,6 +121,7 @@ Ho Chi Minh City University of Technology and Education
 
 - Email: [khangtran7073@gmail.com](mailto:khangtran7073@gmail.com)
 - GitHub: [github.com/ProgenJeff](https://github.com/ProgenJeff)
+- LinkedIn: [Tran Thanh Khang](https://www.linkedin.com/in/trần-thành-khang-924014426)
 
 ---
 
