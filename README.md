@@ -69,7 +69,7 @@ robot software, and motion-control algorithms.
 
 ## Featured Project
 
-### 🚗 [Automobile Parking Robot](https://github.com/ProgenJeff/Automobile-Parking-Robot)
+### [Automobile Parking Robot](https://github.com/ProgenJeff/Automobile-Parking-Robot)
 
 An autonomous parallel-parking robot developed using **ROS 2, Raspberry Pi 4,
 Arduino, LiDAR, IMU, and wheel encoders**.
