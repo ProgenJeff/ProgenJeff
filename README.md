@@ -14,7 +14,7 @@
 ## About Me
 
 I am a recent graduate in **Automation and Control Engineering** from  
-**Ho Chi Minh City University of Technology and Education (HCMUTE)**.
+**Ho Chi Minh City University of Technology and Engineering (HCMUTE)**.
 
 I am interested in robotics, autonomous mobile systems, embedded programming,
 industrial automation, and control engineering. Through academic projects, I
