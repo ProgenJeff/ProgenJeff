@@ -10,12 +10,6 @@
   <a href="mailto:khangtran7073@gmail.com">
     <img src="https://img.shields.io/badge/Email-khangtran7073%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <!-- Replace YOUR_LINKEDIN_URL with your exact LinkedIn profile URL -->
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Tran%20Thanh%20Khang-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
 ---
 
 ## About Me
