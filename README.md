@@ -10,7 +10,6 @@
   <a href="mailto:khangtran7073@gmail.com">
     <img src="https://img.shields.io/badge/Email-khangtran7073%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
----
 
 ## About Me
 
