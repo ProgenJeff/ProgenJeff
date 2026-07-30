@@ -28,7 +28,7 @@ robot software, and motion-control algorithms.
 - Interested in robotics and autonomous systems
 - Developed an autonomous parallel-parking robot
 - Experienced with embedded systems and control algorithms
-- Currently improving my skills in ROS 2, PLC programming, and robotics
+- Currently improving my skills in ROS 2, robotic systems
 - Open to entry-level opportunities in Automation, Embedded Systems, and Robotics
 
 ---
