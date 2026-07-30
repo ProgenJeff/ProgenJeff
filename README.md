@@ -28,7 +28,7 @@ industrial automation, and control engineering. Through academic projects, I
 have gained practical experience in integrating sensors, embedded controllers,
 robot software, and motion-control algorithms.
 
-- 🤖 Interested in robotics and autonomous systems
+-  Interested in robotics and autonomous systems
 - 🚗 Developed an autonomous parallel-parking robot
 - ⚙️ Experienced with embedded systems and control algorithms
 - 🌱 Currently improving my skills in ROS 2, PLC programming, and robotics
