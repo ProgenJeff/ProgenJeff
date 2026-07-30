@@ -21,89 +21,89 @@ I am a recent graduate in Automation and Control Engineering fromHo Chi Minh Cit
 
 I am interested in robotics, autonomous mobile systems, embedded programming,industrial automation, and control engineering. Through academic projects, Ihave gained practical experience in integrating sensors, embedded controllers,robot software, and motion-control algorithms.
 
-Interested in robotics and autonomous systems
+.Interested in robotics and autonomous systems
 
-Developed an autonomous parallel-parking robot
+.Developed an autonomous parallel-parking robot
 
-Experienced with embedded systems and control algorithms
+.Experienced with embedded systems and control algorithms
 
-Currently improving my skills in ROS 2, PLC programming, and robotics
+.Currently improving my skills in ROS 2, PLC programming, and robotics
 
-Open to entry-level opportunities in Automation, Embedded Systems, and Robotics
+.Open to entry-level opportunities in Automation, Embedded Systems, and Robotics
 
 Technical Skills
 
 Programming Languages
 
-C
+.C
 
-Python
+.Python
 
 Robotics and Control
 
-ROS 2
+.ROS 2
 
-PID Control
+.PID Control
 
-Fuzzy Logic
+.Fuzzy Logic
 
-Pure Pursuit Path Tracking
+.Pure Pursuit Path Tracking
 
-B-Spline Trajectory Planning
+.B-Spline Trajectory Planning
 
-Odometry and Kinematic Modeling
+.Odometry and Kinematic Modeling
 
-Sensor Integration and State Estimation
+.Sensor Integration and State Estimation
 
 Embedded Systems and Hardware
 
-Raspberry Pi 4
+.Raspberry Pi 4
 
-Arduino Uno
+.Arduino Uno
 
-RP LiDAR A1M8
+.RP LiDAR A1M8
 
-BNO055 IMU
+..BNO055 IMU
 
-Encoder
+.Encoder
 
-DC Motor and Servo Control
+.DC Motor and Servo Control
 
-UART, I2C, PWM
+.UART, I2C, PWM
 
 Automation and Engineering Tools
 
-PLC Programming
+.PLC Programming
 
-MATLAB / Simulink
+.MATLAB / Simulink
 
-SolidWorks
+.SolidWorks
 
-Git and GitHub
+.Git and GitHub
 
-Linux / Ubuntu
+.Linux / Ubuntu
 
-Visual Studio Code
+.Visual Studio Code
 
 Featured Project
 
-🚗 Automobile Parking Robot
+Automobile Parking Robot
 
 An autonomous parallel-parking robot developed using ROS 2, Raspberry Pi 4,Arduino, LiDAR, IMU, and wheel encoders.
 
 Main features:
 
-Parking-space detection using RP LiDAR A1M8
+.Parking-space detection using RP LiDAR A1M8
 
-Smooth trajectory generation using B-Spline curves
+.Smooth trajectory generation using B-Spline curves
 
-Path tracking using the Pure Pursuit controller
+.Path tracking using the Pure Pursuit controller
 
-Vehicle-state estimation using odometry, IMU, and a kinematic model
+.Vehicle-state estimation using odometry, IMU, and a kinematic model
 
-Ackermann steering and motor-control integration
+.Ackermann steering and motor-control integration
 
-Final vehicle alignment using LiDAR measurements and geometry
+.Final vehicle alignment using LiDAR measurements and geometry
 
 Technologies: Python, C, ROS 2, Raspberry Pi, Arduino, LiDAR, BNO055
 
@@ -111,23 +111,23 @@ Other Academic Projects
 
 3-DOF Pick-and-Place Robot Arm
 
-Designed and built a three-degree-of-freedom robot arm
+.Designed and built a three-degree-of-freedom robot arm
 
-Used Arduino, an electromagnet, and photoelectric sensors
+.Used Arduino, an electromagnet, and photoelectric sensors
 
-Developed embedded control in C
+.Developed embedded control in C
 
-Built a Python graphical user interface for operation
+.Built a Python graphical user interface for operation
 
 Levitating Ball Control System
 
-Designed a PID-based levitating-ball control system
+.Designed a PID-based levitating-ball control system
 
-Integrated Arduino, an electric fan, and an ultrasonic sensor
+.Integrated Arduino, an electric fan, and an ultrasonic sensor
 
-Improved control performance using fuzzy logic
+.Improved control performance using fuzzy logic
 
-Applied a genetic algorithm to tune PID parameters in MATLAB
+.Applied a genetic algorithm to tune PID parameters in MATLAB
 
 Education
 
