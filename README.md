@@ -107,7 +107,7 @@ Main features:
 
 ## Education
 
-**Bachelor of Engineering in Automation and Control Engineering**  
+**Engineer in Automation and Control Engineering**  
 Ho Chi Minh City University of Technology and Education  
 2022 - 2026
 
