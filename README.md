@@ -21,15 +21,15 @@ I am a recent graduate in Automation and Control Engineering fromHo Chi Minh Cit
 
 I am interested in robotics, autonomous mobile systems, embedded programming,industrial automation, and control engineering. Through academic projects, Ihave gained practical experience in integrating sensors, embedded controllers,robot software, and motion-control algorithms.
 
-🤖 Interested in robotics and autonomous systems
+Interested in robotics and autonomous systems
 
-🚗 Developed an autonomous parallel-parking robot
+Developed an autonomous parallel-parking robot
 
-⚙️ Experienced with embedded systems and control algorithms
+Experienced with embedded systems and control algorithms
 
-🌱 Currently improving my skills in ROS 2, PLC programming, and robotics
+Currently improving my skills in ROS 2, PLC programming, and robotics
 
-💼 Open to entry-level opportunities in Automation, Embedded Systems, and Robotics
+Open to entry-level opportunities in Automation, Embedded Systems, and Robotics
 
 Technical Skills
 
